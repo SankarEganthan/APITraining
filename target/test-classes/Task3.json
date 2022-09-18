@@ -1,0 +1,10 @@
+{
+"name":"Bala",
+"email":"Bala@gmail.com",
+"phoneNo":"7299834678",
+"address":{
+"streetName":"Sakthi Nagar",
+"district":"Chennai",
+"state":"TN"
+}
+}
